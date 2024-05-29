@@ -1,13 +1,12 @@
----
+
 title: "git_01"
 author: "Aubrey Garcia"
-<<<<<<< HEAD
-date: "   Summer semester 2024"
-=======
-date: "summer semester2024"
->>>>>>> verse3
+ HEAD
+date: "Summer semester 2024"
+
+
 output: html_document
----
+
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
