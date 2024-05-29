@@ -1,7 +1,7 @@
 ---
 title: "git_01"
-author: "Math_116"
-date: "Fall semester"
+author: "Aubrey Garcia"
+date: "summer semester 2024"
 output: html_document
 ---
 
@@ -24,3 +24,26 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In a world of whispers, soft and clear,
+
+
+The moonlight dances, drawing near.
+
+
+Stars alight in silent song,
+
+
+Night’s embrace where dreams belong.
+
+
+Petals fall, a gentle sigh,
+
+
+Beneath the vast and endless sky.
+
+
+Time stands still in twilight’s grace,
+
+
+In the heart of this quiet place.
